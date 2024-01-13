@@ -5514,3 +5514,8 @@ li.suha-dropdown-menu .dropdown-trigger-btn.active i {
 .pricing-header {
   max-width: 700px;
 }
+/* bootstrap.css */
+.ltr {
+  @import "../node_modules/bootstrap/scss/bootstrap";
+}
+
